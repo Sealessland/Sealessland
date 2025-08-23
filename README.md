@@ -5,10 +5,29 @@
 - 
 - 📫 Just call me on QQ.2692231726
 - 😄 Pronouns: RAY
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sealessland&show_icons=true&theme=ambient_gradient&hide_border=true" />
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=sealessland&theme=ambient_gradient&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealessland&layout=compact&theme=ambient_gradient&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sealessland&theme=monokai" />
-  <img src="https://leetcode.card.workers.dev/sealessland?theme=dark&font=firacode" />
-</p>
+<table align="center">
+  <!-- 第一行 -->
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sealessland&show_icons=true&theme=ambient_gradient&hide_border=true" />
+    </td>
+    <td align="center">
+      <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=sealessland&theme=ambient_gradient&hide_border=true" />
+    </td>
+  </tr>
+  <!-- 第二行 -->
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealessland&layout=compact&theme=ambient_gradient&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sealessland&theme=monokai" />
+    </td>
+  </tr>
+  <!-- 第三行 (单个居中) -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://leetcode.card.workers.dev/sealessland?theme=dark&font=firacode" />
+    </td>
+  </tr>
+</table>
