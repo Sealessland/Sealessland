@@ -1,20 +1,31 @@
-name: Generate Snake Animation
+name: Generate GitHub Snake
 
 on:
   schedule:
-    - cron: "0 0,12 * * *" # Runs at 00:00 and 12:00 UTC
-  workflow_dispatch:
+    - cron: "0 0,12 * * *" # 每天 UTC 时间 00:00 和 12:00 运行
+  workflow_dispatch: # 允许手动触发
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Generate the snake
-        uses: platane/snk@v2
         with:
-          github_user_name: sealessland # 将这里的用户名改为你的 GitHub 用户名
+          # 我们需要 snake action 能够写入文件，所以需要配置 token
+          # 这是一个新的 v3 要求
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Generate the snake
+        uses: Platane/snk@v3
+        with:
+          # 读取你的 GitHub 用户名，使用 action 的上下文变量
+          # 这比硬编码用户名更灵活
+          github_user_name: ${{ github.repository_owner }}
+          
+          # 定义要生成的 SVG/GIF 文件
+          # 每个文件都单独一行，可以通过查询字符串来自定义颜色
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
