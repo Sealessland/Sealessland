@@ -1,4 +1,8 @@
 <div align="center">
+  <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%3C+%F0%9F%91%8B%F0%9F%8F%BBHello%2CWorld!+I+am+sealessland+%2F%3E" alt="Typing SVG" /></a>
+</div>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake.svg">
@@ -6,9 +10,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%3C+%F0%9F%91%8B%F0%9F%8F%BBHello%2CWorld!+I+am+sealessland+%2F%3E" alt="Typing SVG" /></a>
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=Github&color=000&labelColor=666&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsealessland" alt="Github followers">
