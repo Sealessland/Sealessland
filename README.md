@@ -1,4 +1,12 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=870&height=100&lines=%3C+%F0%9F%91%8B%F0%9F%8F%BBHello%2CWorld!+I+am+sealessland+%2F%3E" alt="Typing SVG" /></a>
 </div>
 
@@ -27,14 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealessland&layout=compact&theme=monokai&hide_border=true" alt="Top Languages">
   <img src="https://leetcode.card.workers.dev/sealessland?theme=dark&font=firacode" alt="LeetCode Card">
 </div>
-
----
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sealessland/Sealessland/output/github-contribution-grid-snake.svg" />
-</picture>
-  
-  </div>
