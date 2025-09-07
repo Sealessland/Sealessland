@@ -34,5 +34,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sealessland&theme=monokai&hide_border=true" alt="GitHub Streak Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealessland&layout=compact&theme=monokai&hide_border=true" alt="Top Languages">
-  <img src="https://leetcode.card.workers.dev/m1LxkaY9sp?theme=dark&font=firacode" alt="LeetCode Card">
+  <img src="https://leetcode.card.workers.dev/m1lxkay9sp?theme=dark&font=firacode" alt="LeetCode Card">
 </div>
