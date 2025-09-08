@@ -20,7 +20,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/dynamic/json?logoColor=fff&logo=Github&color=000&labelColor=666&label=Github&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsealessland" alt="Github followers">
-  <img src="https://komarev.com/ghpvc/?username=sealessland&style=flat-square" alt="GitHub Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=sealess-land&style=flat-square" alt="GitHub Profile Views">
 </div>
 
 ---
