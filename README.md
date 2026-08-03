@@ -76,8 +76,6 @@ Debuff    : interested in everything
 ## 🔥 Boss Room
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sealessland&theme=monokai&hide_border=true" alt="GitHub Streak Stats" />
-  <br />
   <img src="https://leetcard.jacoblin.cool/sealessland?theme=dark&font=Fira%20Code" alt="LeetCode Card" />
 </div>
 
