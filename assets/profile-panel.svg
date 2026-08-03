@@ -25,20 +25,20 @@
     <text x="40" y="50" fill="#93C5FD" font-size="16">sealessland@github:~$ profile --brief</text>
     <text x="40" y="90" fill="#F9FAFB" font-size="30" font-weight="700">SEALESSLAND</text>
     <text x="40" y="120" fill="#D1D5DB" font-size="16">Electrical Engineering @ UESTC</text>
-    <text x="40" y="148" fill="#CBD5E1" font-size="15">Algorithms · systems · engineering practice</text>
+    <text x="40" y="148" fill="#CBD5E1" font-size="15">Systems · tooling · EE practice</text>
 
     <text x="40" y="194" fill="#60A5FA" font-size="14">STATUS</text>
     <text x="40" y="220" fill="#E5E7EB" font-size="15">implementation practice / technical notes / experiments</text>
 
     <text x="560" y="90" fill="#60A5FA" font-size="14">AREAS</text>
 
-    <text x="560" y="120" fill="#E5E7EB" font-size="14">Algorithms</text>
+    <text x="560" y="120" fill="#E5E7EB" font-size="14">Systems</text>
     <rect x="690" y="109" width="150" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.10"/>
-    <rect x="690" y="109" width="120" height="12" rx="6" fill="#38BDF8"/>
+    <rect x="690" y="109" width="108" height="12" rx="6" fill="#38BDF8"/>
 
-    <text x="560" y="152" fill="#E5E7EB" font-size="14">Systems</text>
+    <text x="560" y="152" fill="#E5E7EB" font-size="14">Tooling</text>
     <rect x="690" y="141" width="150" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.10"/>
-    <rect x="690" y="141" width="88" height="12" rx="6" fill="#60A5FA"/>
+    <rect x="690" y="141" width="92" height="12" rx="6" fill="#60A5FA"/>
 
     <text x="560" y="184" fill="#E5E7EB" font-size="14">EE</text>
     <rect x="690" y="173" width="150" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.10"/>
