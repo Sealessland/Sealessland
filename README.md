@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/QQ-2692231726-1D4ED8?style=flat-square&logo=tencentqq&logoColor=white" alt="QQ" />
 </p>
 
-<img src="./assets/player-card.svg" alt="Sealessland terminal profile card" />
+<img src="./assets/profile-panel.svg" alt="Sealessland terminal profile panel" />
 
 </div>
 

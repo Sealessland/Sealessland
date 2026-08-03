@@ -1,6 +1,6 @@
 <svg width="920" height="250" viewBox="0 0 920 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Sealessland terminal profile card</title>
-  <desc id="desc">A restrained terminal-style profile card.</desc>
+  <title id="title">Sealessland terminal profile</title>
+  <desc id="desc">A restrained terminal-style profile panel.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="920" y2="250" gradientUnits="userSpaceOnUse">
       <stop stop-color="#07111F"/>
@@ -27,7 +27,7 @@
     <text x="40" y="120" fill="#D1D5DB" font-size="16">Electrical Engineering @ UESTC</text>
     <text x="40" y="148" fill="#CBD5E1" font-size="15">Algorithms · systems · engineering practice</text>
 
-    <text x="40" y="194" fill="#60A5FA" font-size="14">CURRENT</text>
+    <text x="40" y="194" fill="#60A5FA" font-size="14">STATUS</text>
     <text x="40" y="220" fill="#E5E7EB" font-size="15">implementation practice / technical notes / experiments</text>
 
     <text x="560" y="90" fill="#60A5FA" font-size="14">AREAS</text>
@@ -44,7 +44,7 @@
     <rect x="690" y="173" width="150" height="12" rx="6" fill="#FFFFFF" fill-opacity="0.10"/>
     <rect x="690" y="173" width="102" height="12" rx="6" fill="#818CF8"/>
 
-    <text x="560" y="220" fill="#94A3B8" font-size="13">format: terminal card / restrained motion</text>
+    <text x="560" y="220" fill="#94A3B8" font-size="13">format: terminal panel / restrained motion</text>
   </g>
 
   <circle cx="832" cy="47" r="4" fill="#38BDF8">
